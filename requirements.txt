@@ -1,5 +1,5 @@
 absl-py==0.1.11
-bleach==1.5.0
+bleach==3.1.4
 Click==7.0
 cycler==0.10.0
 decorator==4.2.1
@@ -28,7 +28,7 @@ pandocfilters==1.4.2
 parso==0.1.1
 pexpect==4.4.0
 pickleshare==0.7.4
-Pillow==5.0.0
+Pillow>=7.1.0
 prompt-toolkit==1.0.15
 protobuf==3.5.2.post1
 ptyprocess==0.5.2
@@ -44,7 +44,7 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
-tensorflow-gpu==1.5.1
+tensorflow-gpu==1.15.2
 tensorflow-tensorboard==1.5.1
 terminado==0.8.1
 testpath==0.3.1
